@@ -5,16 +5,16 @@
   <title>FJ99 🏮 Game Online dengan Grafik Modern dan Responsif </title>
   <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaRs_YlAC77HdL2tGP0MkjTXnMrR5zxcxZJwRx-txElHLSaj6MlZM54R7TyT2BhqvjG8VWhcdJmLp0yvufUPt2NTF-H8mZJTQcCrLyJxE2KmqfHBp48a9ciGojb_BSGmxrjhSgoRQYCe6VimhisZl59GVMwMjZqoGfHElz4qaqsLJZ3gK04GzV_DwwW8rE/w200-h200/1%20(13).jpg" />
   <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaRs_YlAC77HdL2tGP0MkjTXnMrR5zxcxZJwRx-txElHLSaj6MlZM54R7TyT2BhqvjG8VWhcdJmLp0yvufUPt2NTF-H8mZJTQcCrLyJxE2KmqfHBp48a9ciGojb_BSGmxrjhSgoRQYCe6VimhisZl59GVMwMjZqoGfHElz4qaqsLJZ3gK04GzV_DwwW8rE/w200-h200/1%20(13).jpg">
-  <link rel="canonical" href="https://lilysfashion.ca/bridal-alteration/">
+  <link rel="canonical" href="https://ubisinc.com/index.php/about/">
   <link rel="amphtml" href="https://portal-3-situs-gacor.pages.dev/fj99" />
-  <link rel="alternate" href="https://lilysfashion.ca/bridal-alteration/"> 
-  <link rel="alternate" href="https://lilysfashion.ca/bridal-alteration/" hreflang="id">
-  <link rel="alternate" href="https://lilysfashion.ca/bridal-alteration/" hreflang="en">
-  <link rel="alternate" href="https://lilysfashion.ca/bridal-alteration/" hreflang="en">
-  <link rel="alternate" href="https://lilysfashion.ca/bridal-alteration/" hreflang="x-default">
-  <link rel="alternate" hreflang="id-ID" href="https://lilysfashion.ca/bridal-alteration/" />
-  <link rel="alternate" hreflang="en-US" href="https://lilysfashion.ca/bridal-alteration/" />
-  <link rel="alternate" hreflang="en-SG" href="https://lilysfashion.ca/bridal-alteration/" />
+  <link rel="alternate" href="https://ubisinc.com/index.php/about/"> 
+  <link rel="alternate" href="https://ubisinc.com/index.php/about/" hreflang="id">
+  <link rel="alternate" href="https://ubisinc.com/index.php/about/" hreflang="en">
+  <link rel="alternate" href="https://ubisinc.com/index.php/about/" hreflang="en">
+  <link rel="alternate" href="https://ubisinc.com/index.php/about/" hreflang="x-default">
+  <link rel="alternate" hreflang="id-ID" href="https://ubisinc.com/index.php/about/" />
+  <link rel="alternate" hreflang="en-US" href="https://ubisinc.com/index.php/about/" />
+  <link rel="alternate" hreflang="en-SG" href="https://ubisinc.com/index.php/about/" />
   <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrxPNyENK2g_gH4L66AyLPCa3yVYptZ_fg2oPpFq7UZL09Ar0fzxRoOsNMmFMjD2mjxdQPONok5WuYXuk_BimVYQJzWSwgYew1_DlTdX5NTbGyxFADf4zaLUfcPonENpNGDLRugneNtyB8h4JqUQiHtVuKiNzEEEmXHuI0ECnGZ4lIOJL-v3ifUxiL4Vga/s1600/1%20(14).jpg' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -37,7 +37,7 @@
   <meta property="og:price:amount" content="10.000">
   <meta property="og:price:currency" content="IDR">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://lilysfashion.ca/bridal-alteration/">
+  <meta property="og:url" content="https://ubisinc.com/index.php/about/">
   <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrxPNyENK2g_gH4L66AyLPCa3yVYptZ_fg2oPpFq7UZL09Ar0fzxRoOsNMmFMjD2mjxdQPONok5WuYXuk_BimVYQJzWSwgYew1_DlTdX5NTbGyxFADf4zaLUfcPonENpNGDLRugneNtyB8h4JqUQiHtVuKiNzEEEmXHuI0ECnGZ4lIOJL-v3ifUxiL4Vga/s1600/1%20(14).jpg">
   <meta property="og:site_name" content="TeePublic">
   <meta property="product:price:amount" content="10.000">
@@ -57,7 +57,7 @@
     "request__controller": "product_pages",
     "request__action": "show",
     "request__domain": "teepublic.com",
-    "request__base_url": "https://lilysfashion.ca/bridal-alteration/",
+    "request__base_url": "https://ubisinc.com/index.php/about/",
     "request__ab_tests": {
      "con-3051-pasf": "default"
     },
@@ -78,7 +78,7 @@
     "design__variant_id": "19G79A8C",
     "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic FJ99\",\"Color\":\"Red\"}",
     "design__mock_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrxPNyENK2g_gH4L66AyLPCa3yVYptZ_fg2oPpFq7UZL09Ar0fzxRoOsNMmFMjD2mjxdQPONok5WuYXuk_BimVYQJzWSwgYew1_DlTdX5NTbGyxFADf4zaLUfcPonENpNGDLRugneNtyB8h4JqUQiHtVuKiNzEEEmXHuI0ECnGZ4lIOJL-v3ifUxiL4Vga/s1600/1%20(14).jpg",
-    "design__url": "https://lilysfashion.ca/bridal-alteration/",
+    "design__url": "https://ubisinc.com/index.php/about/",
     "design__canvas": "FJ99",
     "design__canvas_canonical_name": "FJ99",
     "design__design_title": "FJ99 Menggabungkan desain grafis menarik, navigasi praktis, dan informasi game Pragmatic Play dalam portal yang dirancang untuk beragam ukuran layar.",
@@ -197,10 +197,10 @@ button, .btn, [role="button"], input[type="submit"] {
   <header class="vc-header jsHead" data-controller="rudderstack--link-clicked navigation--header navigation--tray-trigger sticky-header" data-rudderstack--link-clicked-location-value="nav-main" data-navigation--header-target="header" data-navigation--tray-trigger-containers--drawer-component-outlet=".jsHeaderTray" data-navigation--tray-trigger-navigation--cart-outlet=".jsCartTray" data-action="showElement@document-&gt;sticky-header#showHeader" data-sticky-header-containers--banner-outlet=".containers--banner" data-sticky-header-rendering-rails-ctrl-value="product_pages">
    
    <div class="vc-header-logo">
-    <a aria-label="Home Link" title="Home" href="https://lilysfashion.ca/bridal-alteration/" class="link vc-header-logo__wrapper link--1 link--default">
+    <a aria-label="Home Link" title="Home" href="https://ubisinc.com/index.php/about/" class="link vc-header-logo__wrapper link--1 link--default">
      <span class='link__content'>
       <div class="header-mini__logo" bis_skin_checked="1">
-       <a href="https://lilysfashion.ca/bridal-alteration/">
+       <a href="https://ubisinc.com/index.php/about/">
         <img alt="FJ99" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pqzOm_GcxzC8-t_rF-E66Bt0LSQs0aB5icPJojc0e4By37JmQOQavbapQ6vTjEQuGIS1mMU8MpFqLIWlmVrYlJtj-bvoKCKhQOHOJ2g6M_c85qFFf_Hi74NXbQ5EFw2HrdPXtOhLuicHLMUp2GvfRRP7N26FdLlx0oX_1ki4f1_ggjZGCBQ1TRb9EWWi/w640-h214/ChatGPT%20Image%2030%20Sep%202026,%2020.17.26.png" style="height:100px; width:300px; display:">
        </a>
       </div>
@@ -210,7 +210,7 @@ button, .btn, [role="button"], input[type="submit"] {
    </div>
    <div class='vc-header__search-container'>
     <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://lilysfashion.ca/bridal-alteration/" accept-charset="UTF-8" method="post">
+     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://ubisinc.com/index.php/about/" accept-charset="UTF-8" method="post">
       <input type="hidden" name="_method" value="patch" autocomplete="off" />
       <input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
       <div class='m-header__search-field-container'>
@@ -285,43 +285,43 @@ button, .btn, [role="button"], input[type="submit"] {
       <div class='m-explore-nav__tab-content'>
        </span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://lilysfashion.ca/bridal-alteration/" title="Lebaran FJ99" href="https://lilysfashion.ca/bridal-alteration/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://ubisinc.com/index.php/about/" title="Lebaran FJ99" href="https://ubisinc.com/index.php/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPoJhSGXHUY7LBRxlo1H8AGV8BPf6U0zbqBH3AJzaKdHnohJ9XgFEjDjOC9q0Bj17GyFw3GbvGbLEyXh6zbmTYgNzvmvllpmfyu4ACvEBGhhSNZUOcIke1QvenKuKlzKjbeBTPu1RRP5NLtOrWtQO3ZOR9Cqaev3llffqriIf10hC_IVpFwEN5WLI-axil/w200-h200/Emblem%20Petir%20Emas%20dan%20Biru%20Neon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>FJ99</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://lilysfashion.ca/bridal-alteration/" title="Music FJ99" href="https://lilysfashion.ca/bridal-alteration/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://ubisinc.com/index.php/about/" title="Music FJ99" href="https://ubisinc.com/index.php/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPoJhSGXHUY7LBRxlo1H8AGV8BPf6U0zbqBH3AJzaKdHnohJ9XgFEjDjOC9q0Bj17GyFw3GbvGbLEyXh6zbmTYgNzvmvllpmfyu4ACvEBGhhSNZUOcIke1QvenKuKlzKjbeBTPu1RRP5NLtOrWtQO3ZOR9Cqaev3llffqriIf10hC_IVpFwEN5WLI-axil/w200-h200/Emblem%20Petir%20Emas%20dan%20Biru%20Neon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>FJ99 TOGEL</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://lilysfashion.ca/bridal-alteration/" title="Sport FJ99" href="https://lilysfashion.ca/bridal-alteration/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://ubisinc.com/index.php/about/" title="Sport FJ99" href="https://ubisinc.com/index.php/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPoJhSGXHUY7LBRxlo1H8AGV8BPf6U0zbqBH3AJzaKdHnohJ9XgFEjDjOC9q0Bj17GyFw3GbvGbLEyXh6zbmTYgNzvmvllpmfyu4ACvEBGhhSNZUOcIke1QvenKuKlzKjbeBTPu1RRP5NLtOrWtQO3ZOR9Cqaev3llffqriIf10hC_IVpFwEN5WLI-axil/w200-h200/Emblem%20Petir%20Emas%20dan%20Biru%20Neon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>FJ99 LOGIN</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://lilysfashion.ca/bridal-alteration/" title="Movie FJ99" href="https://lilysfashion.ca/bridal-alteration/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://ubisinc.com/index.php/about/" title="Movie FJ99" href="https://ubisinc.com/index.php/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPoJhSGXHUY7LBRxlo1H8AGV8BPf6U0zbqBH3AJzaKdHnohJ9XgFEjDjOC9q0Bj17GyFw3GbvGbLEyXh6zbmTYgNzvmvllpmfyu4ACvEBGhhSNZUOcIke1QvenKuKlzKjbeBTPu1RRP5NLtOrWtQO3ZOR9Cqaev3llffqriIf10hC_IVpFwEN5WLI-axil/w200-h200/Emblem%20Petir%20Emas%20dan%20Biru%20Neon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT ONLINE</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://lilysfashion.ca/bridal-alteration/" title="Animal FJ99" href="https://lilysfashion.ca/bridal-alteration/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://ubisinc.com/index.php/about/" title="Animal FJ99" href="https://ubisinc.com/index.php/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPoJhSGXHUY7LBRxlo1H8AGV8BPf6U0zbqBH3AJzaKdHnohJ9XgFEjDjOC9q0Bj17GyFw3GbvGbLEyXh6zbmTYgNzvmvllpmfyu4ACvEBGhhSNZUOcIke1QvenKuKlzKjbeBTPu1RRP5NLtOrWtQO3ZOR9Cqaev3llffqriIf10hC_IVpFwEN5WLI-axil/w200-h200/Emblem%20Petir%20Emas%20dan%20Biru%20Neon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>LINK GACOR</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://lilysfashion.ca/bridal-alteration/" title="Television FJ99" href="https://lilysfashion.ca/bridal-alteration/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://ubisinc.com/index.php/about/" title="Television FJ99" href="https://ubisinc.com/index.php/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPoJhSGXHUY7LBRxlo1H8AGV8BPf6U0zbqBH3AJzaKdHnohJ9XgFEjDjOC9q0Bj17GyFw3GbvGbLEyXh6zbmTYgNzvmvllpmfyu4ACvEBGhhSNZUOcIke1QvenKuKlzKjbeBTPu1RRP5NLtOrWtQO3ZOR9Cqaev3llffqriIf10hC_IVpFwEN5WLI-axil/w200-h200/Emblem%20Petir%20Emas%20dan%20Biru%20Neon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>TOGEL</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://lilysfashion.ca/bridal-alteration/" title="Funny FJ99" href="https://lilysfashion.ca/bridal-alteration/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://ubisinc.com/index.php/about/" title="Funny FJ99" href="https://ubisinc.com/index.php/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPoJhSGXHUY7LBRxlo1H8AGV8BPf6U0zbqBH3AJzaKdHnohJ9XgFEjDjOC9q0Bj17GyFw3GbvGbLEyXh6zbmTYgNzvmvllpmfyu4ACvEBGhhSNZUOcIke1QvenKuKlzKjbeBTPu1RRP5NLtOrWtQO3ZOR9Cqaev3llffqriIf10hC_IVpFwEN5WLI-axil/w200-h200/Emblem%20Petir%20Emas%20dan%20Biru%20Neon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
@@ -544,7 +544,7 @@ button, .btn, [role="button"], input[type="submit"] {
  {
   "@type": "Product",
   "@context": "https://schema.org",
-  "url": "https://lilysfashion.ca/bridal-alteration/",
+  "url": "https://ubisinc.com/index.php/about/",
   "name": "FJ99",
   "sku": "321256",
   "gtin": "n\/a",
@@ -728,42 +728,42 @@ button, .btn, [role="button"], input[type="submit"] {
     "@type": "ListItem",
     "position": 1,
     "name": "FJ99",
-    "item": "https://lilysfashion.ca/bridal-alteration/"
+    "item": "https://ubisinc.com/index.php/about/"
   }, {
     "@type": "ListItem",
     "position": 2,
     "name": "Situs Toto",
-    "item": "https://lilysfashion.ca/bridal-alteration/"
+    "item": "https://ubisinc.com/index.php/about/"
   }, {
     "@type": "ListItem",
     "position": 3,
     "name": "Bandar SLOT ONLINE",
-    "item": "https://lilysfashion.ca/bridal-alteration/"
+    "item": "https://ubisinc.com/index.php/about/"
   }, {
     "@type": "ListItem",
     "position": 4,
     "name": "Metode Amburadul",
-    "item": "https://lilysfashion.ca/bridal-alteration/"
+    "item": "https://ubisinc.com/index.php/about/"
   }, {
     "@type": "ListItem",
     "position": 5,
     "name": "Haporsea 2026",
-    "item": "https://lilysfashion.ca/bridal-alteration/"
+    "item": "https://ubisinc.com/index.php/about/"
   }, {
     "@type": "ListItem",
     "position": 6,
     "name": "Toto Online",
-    "item": "https://lilysfashion.ca/bridal-alteration/"
+    "item": "https://ubisinc.com/index.php/about/"
   }, {
     "@type": "ListItem",
     "position": 7,
     "name": "Prediksi Toto",
-    "item": "https://lilysfashion.ca/bridal-alteration/"
+    "item": "https://ubisinc.com/index.php/about/"
   }, {
     "@type": "ListItem",
     "position": 8,
     "name": "Link Resmi FJ99",
-    "item": "https://lilysfashion.ca/bridal-alteration/"
+    "item": "https://ubisinc.com/index.php/about/"
   }]
 }
 </script>
@@ -824,14 +824,14 @@ button, .btn, [role="button"], input[type="submit"] {
                </div>
               </div>
               <div class='m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls' data-glide-el='controls'>
-               <a data-id="0" href="https://lilysfashion.ca/bridal-alteration/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
+               <a data-id="0" href="https://ubisinc.com/index.php/about/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
                   <img alt='FJ99 🏮 Game Online dengan Grafik Modern dan Responsif  by Hey siriusly' class='mockup' loading='lazy' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrxPNyENK2g_gH4L66AyLPCa3yVYptZ_fg2oPpFq7UZL09Ar0fzxRoOsNMmFMjD2mjxdQPONok5WuYXuk_BimVYQJzWSwgYew1_DlTdX5NTbGyxFADf4zaLUfcPonENpNGDLRugneNtyB8h4JqUQiHtVuKiNzEEEmXHuI0ECnGZ4lIOJL-v3ifUxiL4Vga/s1600/1%20(14).jpg'>
                  </picture>
                 </span>
                </a>
-               <a data-id="1" href="https://lilysfashion.ca/bridal-alteration/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
+               <a data-id="1" href="https://ubisinc.com/index.php/about/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
                   <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrxPNyENK2g_gH4L66AyLPCa3yVYptZ_fg2oPpFq7UZL09Ar0fzxRoOsNMmFMjD2mjxdQPONok5WuYXuk_BimVYQJzWSwgYew1_DlTdX5NTbGyxFADf4zaLUfcPonENpNGDLRugneNtyB8h4JqUQiHtVuKiNzEEEmXHuI0ECnGZ4lIOJL-v3ifUxiL4Vga/s1600/1%20(14).jpg'>
@@ -1490,13 +1490,13 @@ html, body {
         <h2><strong>FJ99: Mengenal Metode Amburadul, Situs Toto, dan Bandar SLOT ONLINE</strong></h2>
 
         <p>
-            <a href="https://lilysfashion.ca/bridal-alteration/"><strong>FJ99</strong></a>
+            <a href="https://ubisinc.com/index.php/about/"><strong>FJ99</strong></a>
             merupakan istilah yang dapat ditemukan dalam berbagai pembahasan mengenai
-            <a href="https://lilysfashion.ca/bridal-alteration/"><strong>metode amburadul</strong></a>
+            <a href="https://ubisinc.com/index.php/about/"><strong>metode amburadul</strong></a>
             situs toto dan bandar SLOT ONLINE Haporsea 2026 di internet. Dalam pencarian informasi, pengguna juga sering menemukan
-            istilah seperti <a href="https://lilysfashion.ca/bridal-alteration/"><strong>situs toto</strong></a>,
-            <a href="https://lilysfashion.ca/bridal-alteration/"><strong>bandar SLOT ONLINE</strong></a>, dan
-            <a href="https://lilysfashion.ca/bridal-alteration/"><strong>Haporsea</strong></a>.
+            istilah seperti <a href="https://ubisinc.com/index.php/about/"><strong>situs toto</strong></a>,
+            <a href="https://ubisinc.com/index.php/about/"><strong>bandar SLOT ONLINE</strong></a>, dan
+            <a href="https://ubisinc.com/index.php/about/"><strong>Haporsea</strong></a>.
             Istilah-istilah tersebut sebaiknya dipahami sebagai kata kunci atau nama yang digunakan
             dalam konteks situs dan permainan toto online, bukan sebagai jaminan hasil permainan.
         </p>
@@ -1504,9 +1504,9 @@ html, body {
         <h2><strong>Mengenal Istilah Situs Toto dan Toto Online</strong></h2>
 
         <p>
-            <a href="https://lilysfashion.ca/bridal-alteration/"><strong>Situs toto</strong></a>
+            <a href="https://ubisinc.com/index.php/about/"><strong>Situs toto</strong></a>
             mengacu pada platform permainan tebak angka yang tersedia melalui layanan berbasis internet.
-            Sementara itu, istilah <a href="https://lilysfashion.ca/bridal-alteration/"><strong>toto online</strong></a>
+            Sementara itu, istilah <a href="https://ubisinc.com/index.php/about/"><strong>toto online</strong></a>
             biasanya digunakan untuk menyebut layanan permainan tersebut yang dapat diakses
             kapan saja melalui perangkat pengguna.
         </p>
@@ -1520,8 +1520,8 @@ html, body {
         <h2><strong>Memahami Istilah Metode Amburadul dan Bandar SLOT ONLINE</strong></h2>
 
         <p>
-            Istilah <a href="https://lilysfashion.ca/bridal-alteration/"><strong>metode amburadul</strong></a>
-            dan <a href="https://lilysfashion.ca/bridal-alteration/"><strong>bandar SLOT ONLINE</strong></a>
+            Istilah <a href="https://ubisinc.com/index.php/about/"><strong>metode amburadul</strong></a>
+            dan <a href="https://ubisinc.com/index.php/about/"><strong>bandar SLOT ONLINE</strong></a>
             sering digunakan dalam konten internet untuk menggambarkan pendekatan atau cara yang
             berkaitan dengan permainan tebak angka. Namun, istilah tersebut tidak dapat digunakan
             sebagai jaminan bahwa seseorang akan memperoleh kemenangan atau hasil tertentu.
@@ -1536,10 +1536,10 @@ html, body {
         <h2><strong>Keamanan dan Informasi Pengguna</strong></h2>
 
         <p>
-            Pengguna yang mencari informasi tentang <a href="https://lilysfashion.ca/bridal-alteration/"><strong>FJ99</strong></a>,
-            <a href="https://lilysfashion.ca/bridal-alteration/"><strong>situs toto</strong></a>,
-            <a href="https://lilysfashion.ca/bridal-alteration/"><strong>bandar SLOT ONLINE</strong></a>,
-            atau platform <a href="https://lilysfashion.ca/bridal-alteration/"><strong>Haporsea 2026</strong></a>
+            Pengguna yang mencari informasi tentang <a href="https://ubisinc.com/index.php/about/"><strong>FJ99</strong></a>,
+            <a href="https://ubisinc.com/index.php/about/"><strong>situs toto</strong></a>,
+            <a href="https://ubisinc.com/index.php/about/"><strong>bandar SLOT ONLINE</strong></a>,
+            atau platform <a href="https://ubisinc.com/index.php/about/"><strong>Haporsea 2026</strong></a>
             sebaiknya tidak hanya mempertimbangkan tampilan atau klaim promosi sebuah website.
             Periksa kebijakan privasi, keamanan koneksi, syarat layanan, dan legalitas layanan
             sesuai yurisdiksi pengguna.
@@ -2397,7 +2397,7 @@ html, body {
               <p class='m-footer__guarantee-subtext'> 100% Free Exchanges. </p>
              </div>
              <p class='m-footer__guarantee-link'>
-              <a target="_blank" href="https://lilysfashion.ca/bridal-alteration/" class="link link__cta link__cta--on-dark link--default">
+              <a target="_blank" href="https://ubisinc.com/index.php/about/" class="link link__cta link__cta--on-dark link--default">
                <span class='link__content'> FJ99 </span>
               </a>
              </p>
@@ -2414,16 +2414,16 @@ html, body {
                <a data-gtm-footer-link-text="Create" style="--animation-order: " href="/contact" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Contact Us </span>
                </a>
-               <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Coupon Codes </span>
                </a>
-               <a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> FAQ </span>
                </a>
-               <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Free Shipping </span>
                </a>
-               <a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Refunds &amp; Returns </span>
                </a>
                <a data-gtm-footer-link-text="Shipping Info" style="--animation-order: " href="/shipping" class="link gtmFooterLink link-collection__link link--1 link--default">
@@ -2442,22 +2442,22 @@ html, body {
                <a data-gtm-footer-link-text="About Us" style="--animation-order: " href="/about" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> About Us </span>
                </a>
-               <a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Accessibility </span>
                </a>
-               <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Create a Dashery Store </span>
                </a>
-               <a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Careers </span>
                </a>
-               <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Hire an Artist </span>
                </a>
-               <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Social Responsibility </span>
                </a>
-               <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> TeePublic Reviews </span>
                </a>
               </div>
@@ -2467,22 +2467,22 @@ html, body {
              <div class="link-collection__body">
               <h4 class="h__h4 link-collection__header h--no-s">Explore</h4>
               <div class="link-collection__content">
-               <a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> All Designs </span>
                </a>
-               <a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Content Directory </span>
                </a>
-               <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Featured Artists </span>
                </a>
-               <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Newest Designers </span>
                </a>
-               <a data-gtm-footer-link-text="Newest FJ99" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Newest FJ99" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Newest FJ99 </span>
                </a>
-               <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Tag Directory </span>
                </a>
               </div>
@@ -2492,13 +2492,13 @@ html, body {
              <div class="link-collection__body">
               <h4 class="h__h4 link-collection__header h--no-s">Artists</h4>
               <div class="link-collection__content">
-               <a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Artist Signup </span>
                </a>
                <a data-gtm-footer-link-text="Design Guide" style="--animation-order: " href="https://assets.teepublic.com/assets/pdfs/designing-for-dtg-061ba741bd403ab1a5d84d0ed3ce584bae150e47068f0a275f72e64e8b577189.pdf" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Design Guide </span>
                </a>
-               <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://lilysfashion.ca/bridal-alteration/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://ubisinc.com/index.php/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> TeePublic Blog </span>
                </a>
               </div>
@@ -2743,7 +2743,7 @@ html, body {
              <h4>Your Cart is empty...</h4>
              <p>Discover something you'll love!</p>
              <div class='m-tray-cart__body-links'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://lilysfashion.ca/bridal-alteration/" href="https://lilysfashion.ca/bridal-alteration/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://ubisinc.com/index.php/about/" href="https://ubisinc.com/index.php/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2783,7 +2783,7 @@ html, body {
                </span>
                <span class='link__content'> food </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://lilysfashion.ca/bridal-alteration/" href="https://lilysfashion.ca/bridal-alteration/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://ubisinc.com/index.php/about/" href="https://ubisinc.com/index.php/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2791,7 +2791,7 @@ html, body {
                </span>
                <span class='link__content'> funny </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://lilysfashion.ca/bridal-alteration/" href="https://lilysfashion.ca/bridal-alteration/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://ubisinc.com/index.php/about/" href="https://ubisinc.com/index.php/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2799,7 +2799,7 @@ html, body {
                </span>
                <span class='link__content'> movies </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="https://lilysfashion.ca/bridal-alteration/" href="https://lilysfashion.ca/bridal-alteration/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="https://ubisinc.com/index.php/about/" href="https://ubisinc.com/index.php/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2807,7 +2807,7 @@ html, body {
                </span>
                <span class='link__content'> sci-fi </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://lilysfashion.ca/bridal-alteration/" href="https://lilysfashion.ca/bridal-alteration/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://ubisinc.com/index.php/about/" href="https://ubisinc.com/index.php/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2815,7 +2815,7 @@ html, body {
                </span>
                <span class='link__content'> sports </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://lilysfashion.ca/bridal-alteration/" href="https://lilysfashion.ca/bridal-alteration/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://ubisinc.com/index.php/about/" href="https://ubisinc.com/index.php/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2823,7 +2823,7 @@ html, body {
                </span>
                <span class='link__content'> television </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://lilysfashion.ca/bridal-alteration/" href="https://lilysfashion.ca/bridal-alteration/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://ubisinc.com/index.php/about/" href="https://ubisinc.com/index.php/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -3194,31 +3194,31 @@ html, body {
             <div class="m-tray-shop__popular-topics">
              <h3>Browse All Topics</h3>
              <div class='m-tray-shop__popular-topics-content'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://lilysfashion.ca/bridal-alteration/" title="Funny" href="https://lilysfashion.ca/bridal-alteration/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://ubisinc.com/index.php/about/" title="Funny" href="https://ubisinc.com/index.php/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> funny </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://lilysfashion.ca/bridal-alteration/" title="Music" href="https://lilysfashion.ca/bridal-alteration/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://ubisinc.com/index.php/about/" title="Music" href="https://ubisinc.com/index.php/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> music </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="https://lilysfashion.ca/bridal-alteration/" title="Anime" href="https://lilysfashion.ca/bridal-alteration/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="https://ubisinc.com/index.php/about/" title="Anime" href="https://ubisinc.com/index.php/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> anime </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://lilysfashion.ca/bridal-alteration/" title="Movies" href="https://lilysfashion.ca/bridal-alteration/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://ubisinc.com/index.php/about/" title="Movies" href="https://ubisinc.com/index.php/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> movies </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://lilysfashion.ca/bridal-alteration/" title="Television" href="https://lilysfashion.ca/bridal-alteration/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://ubisinc.com/index.php/about/" title="Television" href="https://ubisinc.com/index.php/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> television </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://lilysfashion.ca/bridal-alteration/" title="Sports" href="https://lilysfashion.ca/bridal-alteration/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://ubisinc.com/index.php/about/" title="Sports" href="https://ubisinc.com/index.php/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sports </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="clerk.youdown.io/img/FJ99-youdown.webp" title="Sci-Fi" href="clerk.youdown.io/img/FJ99-youdown.webp" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sci-fi </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://lilysfashion.ca/bridal-alteration/" title="Vintage" href="https://lilysfashion.ca/bridal-alteration/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://ubisinc.com/index.php/about/" title="Vintage" href="https://ubisinc.com/index.php/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> vintage </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://lilysfashion.ca/bridal-alteration/" title="Animals" href="https://lilysfashion.ca/bridal-alteration/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://ubisinc.com/index.php/about/" title="Animals" href="https://ubisinc.com/index.php/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> animals </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/FJ99/drinks" title="Drinks" href="/FJ99/drinks" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
